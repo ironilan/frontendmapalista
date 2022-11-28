@@ -1,4 +1,4 @@
-#requisitos
+# requisitos
 - nodejs instalado
 
 # Para instalar
